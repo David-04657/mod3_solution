@@ -1,0 +1,70 @@
+#header-nav {
+	background-color: #A4A4A4;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar {
+	vertical-align: middle;
+}
+.navbar-brand span{
+	font-weight: bold;
+	font-size: 200%;
+	vertical-align: middle;
+	color: black;
+	padding-top: 0px;
+	text-decoration: none;
+}
+.navbar-header a:hover, .navbar-header a:focus{
+	text-decoration: none;
+}
+#nav-list {
+  margin-top: 0px;
+}
+#nav-list a {
+  text-align: center;
+  border-bottom: 1px groove;
+  }
+#nav-list a:hover {
+  background: #C0C0C0;
+  border-bottom: 1px solid;
+}
+#nav-list a {
+  font-size: 1.5em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  }
+  *{
+			box-sizing: border-box;
+      font-family: "Comic Sans MS", cursive, sans-serif;
+		}
+
+p.text-center {
+text-align: center;
+font-weight: bold;
+font-size: 1.75em;
+}
+
+    #row {
+			width: 100%;
+						}
+		
+		div.block {
+			position: relative;
+			padding: 0px 5px 10px 20px;
+      border: 1px solid black;
+			margin: 15px;
+      background-color: #FFFAF0;
+      font-weight: bold;
+											}
+
+		h3{	top: 0;
+			text-align: center; 
+      font-size: 1.25em;
+      font-weight: bold;
+      margin-top: 0;} 
+		}
